@@ -7,7 +7,8 @@
 #container {
     width: 80%;
     margin-left: 10%;
-    border: 1px solid black;
+    border: 1px dot-dot-dash black;
+    background-color: orchid;
 }
 
 #l40 {
@@ -32,7 +33,7 @@
 }
 
 #div3 {
-    border: 1px wave lightseagreen;
+    border: 1px dotted lightseagreen;
     background-color: lightsteelblue;
 }
 
